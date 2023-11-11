@@ -2,7 +2,7 @@
 
 ## Index
 
-### パーティー
+[main]: ### パーティー
 
 - [雨宮 奏(レイン)](/char/main/amemiya_kanade)
 - [闇竜王ヨル(ヨル・ホルンバドラス/竜ヶ崎 澪奈)](/character/main/yoru)
