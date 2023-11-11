@@ -4,8 +4,8 @@
 
 ### Main
 
-- [雨宮 奏(レイン)](/char/main/amemiya_kanade.md)
-- [闇竜王ヨル(ヨル・ホルンバドラス/竜ヶ崎 澪奈)](/char/main/yoru.md)
+- [雨宮 奏(レイン)](main/amemiya_kanade.md)
+- [闇竜王ヨル(ヨル・ホルンバドラス/竜ヶ崎 澪奈)](main/yoru.md)
 - 鍵山 涼也
 - キリガ
 - ネア
