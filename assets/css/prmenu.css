@@ -38,7 +38,7 @@ div.prmenu_container ul.menu-toggle+ul {
 
 div.prmenu_container ul li {
 	display: block;
-	/*float: left;*/
+	float: left;
 	height: auto !important;
 	display: inline-block;
 	width: auto;
@@ -212,7 +212,7 @@ and (max-width : 959px) {
 		width: 100%;
 		font-size: 18px;
 		text-decoration: none;
-		/*vertical-align: top;*/
+		vertical-align: top;
 	}
 
 	div.prmenu_container ul li.menu-toggle a:after {
