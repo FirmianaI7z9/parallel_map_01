@@ -24,6 +24,7 @@ a:hover{text-decoration:underline;}
 .document h2{font-size:24px;font-weight:600;border-bottom:solid 1px #888;padding-bottom:10px;overflow:hidden;}
 .document h3{font-size:20px;font-weight:600;}
 .document h4{font-size:17px;font-weight:600;}
+.document h5{font-size:16px;font-weight:600;}
 .document p{text-indent:1rem;}
 .document .update_info{text-indent:0;font-size:14px;margin:2px 0;color:#888;border-bottom:solid 1px #888;}
 .document .disambig{text-indent:0;font-size:14px;margin:5px 10px;padding:5px;border:1px solid #888;border-radius:5px;}
