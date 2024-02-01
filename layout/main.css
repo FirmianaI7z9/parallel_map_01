@@ -26,6 +26,14 @@ a:hover{text-decoration:underline;}
 .document h4{font-size:17px;font-weight:600;}
 .document h5{font-size:16px;font-weight:600;}
 .document p{text-indent:1rem;}
+.hl1,.hl2,.hl3,.hl4,.hl5,.hl6,.hl7{display:inline-block;text-indent:0;padding:2px 3px;font-weight:600;}
+.hl1{background-color:#fee;color:#f00;border:solid 1px #f00;}
+.hl2{background-color:#fdd;color:#000;border:solid 1px #f00;}
+.hl3{background-color:#efe;color:#080;border:solid 1px #080;}
+.hl4{background-color:#dfd;color:#000;border:solid 1px #080;}
+.hl5{background-color:#eef;color:#22b;border:solid 1px #22b;}
+.hl6{background-color:#ddf;color:#000;border:solid 1px #22b;}
+.hl7{background-color:#ddd;color:#000;border:solid 1px #000;}
 .document .update_info{text-indent:0;font-size:14px;margin:2px 0;color:#888;border-bottom:solid 1px #888;}
 .document .disambig{text-indent:0;font-size:14px;margin:5px 10px;padding:5px;border:1px solid #888;border-radius:5px;}
 
