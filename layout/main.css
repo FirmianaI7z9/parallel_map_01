@@ -1,4 +1,4 @@
-body{width:95%;font-family:sans-serif;line-height:170%;padding-top:80px;}
+body{width:95%;font-family:"Arial", "Helvetica Neue", "Helvetica", sans-serif;line-height:170%;padding-top:80px;}
 a{text-decoration:none;}
 a:not([href]){color:red!important;}
 a:hover{text-decoration:underline;}
